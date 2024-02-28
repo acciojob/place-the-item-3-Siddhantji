@@ -1,2 +1,9 @@
-
+.holder{
+	display:flex;
+	justify-content:space-between;
+	flex-shrink:0;
+}
+p{
+	width:100px;
+}
 /* Your CSS Code here. */
